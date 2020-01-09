@@ -1,0 +1,20 @@
+fieldset {
+    background-color: #ffffff;
+}
+
+body {
+    background-color: blue;
+    padding: 40px;
+}
+
+fieldset {
+    align-content: center;
+}
+
+form {
+    align-content: center;
+}
+
+label username  {
+    padding: 40px;
+}
